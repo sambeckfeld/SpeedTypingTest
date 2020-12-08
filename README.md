@@ -20,3 +20,9 @@ A time function to give a clock,
 And a function to reset the game,
 
 I've started on the check_word function to check the spelling of the words but had trouble with running a few different things into the parameters.
+
+Sources used so far to help create this project
+
+https://www.youtube.com/watch?v=YXPyB4XeYLA
+
+https://www.youtube.com/watch?v=ybpxJ_0B_Ms
