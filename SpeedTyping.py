@@ -31,7 +31,8 @@ def begin():
             print("Wrong Answer Try again, check your spelling")
 
 #creating a list of sentences and randomly selecting from it
-    words = ["typing starts here for always", "terrible is the man who falls", "dunking is for the best of the players", "tugging is used in tug of war", "hippo's seem to love the water"]
+    words = ["typing starts here for always", "terrible is the man who falls", "dunking is for the best of the players", "tugging is used in tug of war", "hippo's seem to love the water",
+             "You bite up because of your lower jaw", "He created a pig burger out of beef", "She advised him to come back at once", "Nobody loves a pig wearing lipstick"]
     word=random.randint(0,(len(words)-1))
 
 #starting the timer
